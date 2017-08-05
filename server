@@ -1,4 +1,5 @@
-//client
+//client side of TCP/IP wifi connection
+//Written in Java 8 on Android Studio 2.3.3
 
 package com.example.david.control_the_light_switch;
 
