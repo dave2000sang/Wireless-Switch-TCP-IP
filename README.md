@@ -14,3 +14,4 @@ based on the ToggleButton's status to the Socket, which the server would receive
 ![img_20170723_164323](https://user-images.githubusercontent.com/30598777/29843762-0574c01a-8cdb-11e7-9292-992c2c4fb194.jpg)
 
 
+https://user-images.githubusercontent.com/30598777/32696015-f395c274-c739-11e7-9f8c-68748f2f43e7.png
