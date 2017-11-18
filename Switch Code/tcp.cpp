@@ -50,7 +50,7 @@ int s_tcp_t::start_server()
 	{
 		s_log_info("open new socket ERROR\n");
 	}
-	// set it to nonblocking
+	// set to nonblocking
 	flags = fcntl(m_socket_id, F_GETFL, 0);
  	if (flags < 0) 
  	{
