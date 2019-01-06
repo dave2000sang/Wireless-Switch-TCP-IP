@@ -1,3 +1,1 @@
-* linguist-vendored
-*.cpp linguist-vendored=false
-Wireless-Switch-TCP-IP/Switch Code/* linguist-vendored
+*.cpp linguist-language=Java
